@@ -1,0 +1,19 @@
+.castList {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    list-style: none;
+}
+
+.img {
+    min-width: 200px;
+    min-height: 300px;
+}
+
+.castTitle {
+    margin: 0;
+}
+
+.castChar {
+    margin: 0;
+}

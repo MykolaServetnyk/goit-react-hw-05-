@@ -1,0 +1,24 @@
+.goBack {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.movieDet {
+    display: flex;
+}
+
+.movieDesc {
+    margin-left: 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 0 20px;
+}
+
+.addition {
+    list-style: none;
+}
+
+.subtitle {
+    font-weight: bold;
+}

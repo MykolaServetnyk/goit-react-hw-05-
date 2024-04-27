@@ -1,0 +1,11 @@
+.reviewsList {
+    padding-left: 0;
+    list-style: none;
+}
+
+.reviewItem {
+    border: 2px solid black;
+    border-radius: 5px;
+    margin: 5px;
+    padding: 0 10px;
+}
