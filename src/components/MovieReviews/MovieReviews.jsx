@@ -37,7 +37,7 @@ export default function MovieReviews() {
                     return (
                         <li className={css.reviewItem} key={id}>
                             <p><FaUser /> {author}</p>
-                            <p>Content:{ content}</p>
+                            <p>{ content}</p>
                         </li>
                     )
                 }):<p>There are still no reviews for this movie</p>}
